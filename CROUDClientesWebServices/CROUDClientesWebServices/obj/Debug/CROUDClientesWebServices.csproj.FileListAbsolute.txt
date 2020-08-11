@@ -1,0 +1,180 @@
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\obj\Debug\CROUDClientesWebServices.csprojAssemblyReference.cache
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\obj\Debug\CROUDClientesWebServices.csproj.CoreCompileInputs.cache
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\CROUDClientesWebServices.dll.config
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\CROUDClientesWebServices.dll
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\CROUDClientesWebServices.pdb
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\csc.exe
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\csc.exe.config
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\csc.rsp
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\csi.exe
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\csi.exe.config
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\csi.rsp
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.AppContext.dll
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Console.dll
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.IO.Compression.dll
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.IO.Pipes.dll
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Security.Claims.dll
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.ValueTuple.dll
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Xml.XPath.dll
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\vbc.exe
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\vbc.exe.config
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\vbc.rsp
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\VBCSCompiler.exe
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\BLL.dll
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\DAL.dll
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\BLL.pdb
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\DAL.pdb
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\obj\Debug\CROUDClientesWebServices.csproj.CopyComplete
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\obj\Debug\CROUDClientesWebServices.dll
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\CROUDClientesWebServices\obj\Debug\CROUDClientesWebServices.pdb
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\obj\Debug\CROUDClientesWebServices.dll
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\obj\Debug\CROUDClientesWebServices.pdb
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\CROUDClientesWebServices.dll.config
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\CROUDClientesWebServices.dll
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\CROUDClientesWebServices.pdb
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\csc.exe
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\csc.exe.config
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\csc.rsp
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\csi.exe
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\csi.exe.config
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\csi.rsp
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\Microsoft.Managed.Core.targets
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.AppContext.dll
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Collections.Immutable.dll
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Console.dll
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.IO.Compression.dll
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.IO.FileSystem.dll
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.IO.Pipes.dll
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Reflection.Metadata.dll
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Security.AccessControl.dll
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Security.Claims.dll
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Security.Principal.Windows.dll
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.ValueTuple.dll
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Xml.XmlDocument.dll
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Xml.XPath.dll
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\vbc.exe
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\vbc.exe.config
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\vbc.rsp
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\VBCSCompiler.exe
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\VBCSCompiler.exe.config
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\BLL.dll
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\DAL.dll
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\BLL.pdb
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\DAL.pdb
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\obj\Debug\CROUDClientesWebServices.csprojAssemblyReference.cache
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\obj\Debug\CROUDClientesWebServices.csproj.CoreCompileInputs.cache
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\obj\Debug\CROUDClientesWebServices.csproj.CopyComplete
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\CROUDClientesWebServices.dll.config
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\CROUDClientesWebServices.dll
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\CROUDClientesWebServices.pdb
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\csc.exe
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\csc.exe.config
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\csc.rsp
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\csi.exe
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\csi.exe.config
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\csi.rsp
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\Microsoft.CSharp.Core.targets
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\Microsoft.Managed.Core.targets
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.AppContext.dll
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Collections.Immutable.dll
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Console.dll
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.IO.Compression.dll
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.IO.FileSystem.dll
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.IO.Pipes.AccessControl.dll
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.IO.Pipes.dll
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Reflection.Metadata.dll
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Security.AccessControl.dll
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Security.Claims.dll
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Security.Principal.Windows.dll
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.ValueTuple.dll
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Xml.ReaderWriter.dll
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Xml.XmlDocument.dll
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Xml.XPath.dll
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\vbc.exe
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\vbc.exe.config
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\vbc.rsp
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\VBCSCompiler.exe
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\roslyn\VBCSCompiler.exe.config
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\BLL.dll
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\DAL.dll
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\BLL.pdb
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\bin\DAL.pdb
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\obj\Debug\CROUDClientesWebServices.csprojAssemblyReference.cache
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\obj\Debug\CROUDClientesWebServices.csproj.CoreCompileInputs.cache
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\obj\Debug\CROUDClientesWebServices.csproj.CopyComplete
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\obj\Debug\CROUDClientesWebServices.dll
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\CROUDClientesWebServices\obj\Debug\CROUDClientesWebServices.pdb

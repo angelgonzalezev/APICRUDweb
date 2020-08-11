@@ -1,0 +1,18 @@
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\DAL\bin\Debug\DAL.dll
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\DAL\bin\Debug\DAL.pdb
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\DAL\obj\Debug\DAL.dll
+C:\Users\a.gonzalez.garrido\Desktop\Beca\WS\CROUDClientesWebServices\DAL\obj\Debug\DAL.pdb
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\DAL\bin\Debug\DAL.dll
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\DAL\bin\Debug\DAL.pdb
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\DAL\obj\Debug\DAL.dll
+D:\aange\Desktop\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\DAL\obj\Debug\DAL.pdb
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\DAL\bin\Debug\DAL.dll
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\DAL\bin\Debug\DAL.pdb
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\DAL\obj\Debug\DAL.dll
+X:\Diso Duro\TODO\Programas Visual Studio_SQL\WS\CROUDClientesWebServices\DAL\obj\Debug\DAL.pdb
